@@ -1,0 +1,13 @@
+body {
+	height: 200px;
+	width: 150px;
+}
+#display {
+	text-align: center;
+	padding: 25px;
+}
+.button-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
